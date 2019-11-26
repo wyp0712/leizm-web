@@ -76,7 +76,7 @@
     "body-parser": "^1.18.3",
     "chai": "^4.2.0",
     "connect": "^3.6.6",
-    "coveralls": "^3.0.2",
+    "coveralls": "^3.0.9",
     "ejs": "^2.6.1",
     "ioredis": "^4.3.0",
     "mocha": "^5.2.0",
