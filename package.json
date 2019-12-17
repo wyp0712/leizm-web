@@ -64,7 +64,7 @@
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
     "@types/chai": "^4.1.7",
-    "@types/connect": "^3.4.32",
+    "@types/connect": "^3.4.33",
     "@types/ejs": "^2.6.1",
     "@types/ioredis": "^4.0.4",
     "@types/mocha": "^5.2.5",
